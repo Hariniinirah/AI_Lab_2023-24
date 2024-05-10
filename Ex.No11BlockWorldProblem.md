@@ -56,7 +56,8 @@ Step 10 : Obtain the plan for given problem.<br>
 
 ~~~
 ### Output/Plan:
-https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/97711b6b-d108-439e-b8d0-b37ff27263a0
+![image](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/d15ef550-5958-4bdd-a01a-eff607fbf633)
+
 
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
